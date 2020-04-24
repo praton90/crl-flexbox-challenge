@@ -96,3 +96,13 @@ img {
     width: 100%;
   }
 }
+
+@media (max-width: 750px) {
+  .row {
+    flex-direction: column;
+  }
+
+  .col {
+    width: 100%;
+  }
+}
