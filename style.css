@@ -105,4 +105,12 @@ img {
   .col {
     width: 100%;
   }
+
+  .hero__title {
+    font-size: 48px;
+  }
+
+  .white-section__title {
+    font-size: 30px;
+  }
 }
